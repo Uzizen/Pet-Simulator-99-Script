@@ -3,7 +3,7 @@ WELCOME
 
 copy this script and paste into injector this is an all in 1
 
-script- loadstring(game:HttpGet(''))()
+script- loadstring(game:HttpGet('https://raw.githubusercontent.com/Uzizen/script/main/.lua'))()
 
 added TITANIC DUPING TO MAIL BOX , abit same as before but much different only works on titanics not huges now you can dupe as many as you like but please note its 1 dupe per titanic.
 
